@@ -174,7 +174,7 @@ function injectScanButton(micButton) {
     console.log('[Key Scanner] Detected keys:', keys);
   };
   
-  micButton.parentElement.insertBefore(scanButton, micButton);
+   micButton.parentElement.insertBefore(scanButton, micButton);
 }
 
 function tryInjectWithRetry(retries = 10) {
