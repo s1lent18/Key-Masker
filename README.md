@@ -35,7 +35,6 @@ you may have to enable developer options to use the Load unpacked button
 after navigate to www.chatgpt.com and the extension will be ready to use 
     
 ## Screenshots
-<img src="screenshots/Notification.png" width="500" alt="Landing">
 <img src="screenshots/Before.png" width="500" alt="Login">
 <img src="screenshots/After.png" width="500" alt="Signup">
 
